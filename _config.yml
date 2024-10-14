@@ -10,7 +10,7 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
+    username : Felix Lammers
     description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
     experience :
       - start : 2017-05-03
@@ -19,19 +19,21 @@ theme_settings :
     skills : 
       - skill : HTML5 & CSS
         value : 85  # Percent value
+      - skill : JavaScript
+        value : 50
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email:  hallo@felixmedia.xyz # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: felixlammers
     gitlab: 
     bitbucket: 
     google_plus:
     twitter:
     youtube:
     facebook:
-    instagram:
+    instagram: felixpunktde
 
   # Disqus
   disqus_shortname :
